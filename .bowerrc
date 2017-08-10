@@ -1,0 +1,4 @@
+{
+    "proxy": "http://10.8.72.34:8080",
+    "directory": "public/lib"
+}
